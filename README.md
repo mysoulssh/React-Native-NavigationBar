@@ -8,8 +8,8 @@
 render() {   
     return (   
         <View style={styles.contentStyle}>
-<br />
             <NavigationBar   
+
                 title="标题"   
                 titleColor='white'   
                 titleFontWeight='bold'   
