@@ -4,7 +4,8 @@
 #使用说明:   
 在需要导航栏的地方，引入NavigationBar.js  
 实例代码如下： 
-'''javascript
+'''javascript   
+
 render() {   
     return (   
         <View style={styles.contentStyle}>   
