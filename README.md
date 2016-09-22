@@ -1,10 +1,10 @@
 # React-Native-NavigationBar
 简单的使用view来代替navigationBar，实现了常用的导航功能，可自定义导航栏Items  
 
-#使用说明:   
+##使用说明:   
 在需要导航栏的地方，引入NavigationBar.js  
 实例代码如下：   
-<br />
+```
 render() {   
     return (   
         <View style={styles.contentStyle}>
@@ -28,9 +28,12 @@ render() {
         />   
         </View>   
     );   
-}<br />    
- 
-示范图：   
+}   
+
+```
+
+
+##示范图：   
 
 ![image](https://github.com/mysoulssh/React-Native-NavigationBar/blob/master/ReactNativeTest/HelloWorld/components/img/one.png)   
 ![image](https://github.com/mysoulssh/React-Native-NavigationBar/blob/master/ReactNativeTest/HelloWorld/components/img/two.png)   
