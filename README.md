@@ -4,14 +4,12 @@
 #使用说明:   
 在需要导航栏的地方，引入NavigationBar.js  
 实例代码如下：   
-
-
-   
+<br />
 render() {   
     return (   
-        <View style={styles.contentStyle}>   
+        <View style={styles.contentStyle}>
+<br />
             <NavigationBar   
-
                 title="标题"   
                 titleColor='white'   
                 titleFontWeight='bold'   
@@ -30,9 +28,7 @@ render() {
         />   
         </View>   
     );   
-}    
-
-
+}<br />    
  
 示范图：   
 
