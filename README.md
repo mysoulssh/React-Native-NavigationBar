@@ -3,13 +3,13 @@
 
 #使用说明:   
 在需要导航栏的地方，引入NavigationBar.js  
-实例代码如下： 
-'''javascript   
-
+实例代码如下：   
+   
 render() {   
     return (   
         <View style={styles.contentStyle}>   
             <NavigationBar   
+
                 title="标题"   
                 titleColor='white'   
                 titleFontWeight='bold'   
@@ -29,10 +29,12 @@ render() {
         </View>   
     );   
 }
-'''  
+ 
 示范图：   
 
 ![image](https://github.com/mysoulssh/React-Native-NavigationBar/blob/master/ReactNativeTest/HelloWorld/components/img/one.png)   
 ![image](https://github.com/mysoulssh/React-Native-NavigationBar/blob/master/ReactNativeTest/HelloWorld/components/img/two.png)   
 
 简要是实现了导航控制器的外观与功能.
+
+
