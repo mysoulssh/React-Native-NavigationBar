@@ -1,0 +1,2 @@
+# React-Native-NavigationBar
+简单的使用view来代替navigationBar，实现了常用的导航功能，可自定义导航栏Items
